@@ -10,7 +10,7 @@
 
 ### 2020年3月28日更新
 
-
+[Tutorial/20200328](https://github.com/plutoese/datastat/tree/master/Tutorial/20200328)下是mooplab的公开实验课资料。
 
 
 
