@@ -12,6 +12,8 @@
 
 [Tutorial/20200328](https://github.com/plutoese/datastat/tree/master/Tutorial/20200328)下是mooplab的公开实验课资料。
 
+[Jupyter notebook](https://github.com/plutoese/datastat/tree/master/Jupyter notebook)下更新了Python和R的一些jupyter notebook。
+
 
 
 ### 语言
